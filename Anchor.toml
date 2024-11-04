@@ -5,6 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
+call_target = "82UAtJWsPJvmD6JV1Z3bpL4Nr6TD7gQrZNN9K3HMygV6"
 simple_router = "3QSSxzUPrct8Go38smbPdb8Lo8WnRNyFa6owKnCaYbuW"
 
 [registry]
