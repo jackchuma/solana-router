@@ -1,6 +1,6 @@
 # Simple Router Example
 
-This is a minimal Solana program example for a request router. It's set up as an on-chain entrypoint that routes to any specified program.
+This is a minimal Solana program example for a request router. It's set up as an onchain entrypoint that routes to any specified program.
 
 > [!WARNING]
 > This code has not been audited. Use at own risk.
